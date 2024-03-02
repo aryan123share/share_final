@@ -405,6 +405,8 @@ body {
 #projectsList {
     display: flex;
     flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
     column-gap: 3rem;
     margin-top: 1rem;
 }
@@ -414,6 +416,9 @@ body {
     flex-direction: column;
     row-gap: 1.5rem;
     width: 16rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
 }
 
 .projectsItem img {
