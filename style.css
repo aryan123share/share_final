@@ -848,8 +848,21 @@ body {
    
 
 }
+
+.master{
+    
+        display:inline-block;
+        margin:0;
+        height:200px;
+        
+        width: 30vw;
+        background: url(assets/master.png);
+        background-size: cover; /* Ensure the background image covers the entire div */
+        background-position: center; 
+        background-repeat: no-repeat;
+}
 .imga1,.imga2{
-    display: flex;
+     display: none;
     flex-direction: row;
     margin:0;
     justify-content: center;
@@ -1559,4 +1572,7 @@ body {
     }
     .portfolio{
         display:none;}
+    .master{
+        display:none;
+    }
 }
