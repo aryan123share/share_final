@@ -19,6 +19,12 @@ body {
 
 #navLogo img{
        max-height: 64px !important;
+   
+    
+    width: 14rem;
+    position: relative;
+    left: -18%;
+
 } 
 
 #navbar {
