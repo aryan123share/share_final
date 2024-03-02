@@ -157,7 +157,13 @@ body {
     color: white;
 
 }
-
+.portfolio {
+    text-align: center;
+    color: black;
+    margin-bottom: 3rem;
+    font-size: 3rem;
+    font-weight: 800;
+}
 #heroMotto span:nth-child(2) {
     color: var(--green);
 }
@@ -1547,4 +1553,6 @@ body {
     .iconslast a{
         color:var(--green) !important;
     }
+    .portfolio{
+        display:none;}
 }
