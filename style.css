@@ -20,7 +20,7 @@ body {
 #navbar {
     width: 100%;
     box-sizing: border-box;
-    padding: 0 2rem;
+    padding: 0 0rem;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -387,7 +387,7 @@ body {
     max-height: 80px !important;
     width: 14rem;
     position: relative;
-    left: -18%;
+    
 }
 #projectsHead {
     font-size: 2rem;
