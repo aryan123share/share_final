@@ -414,11 +414,10 @@ body {
 .projectsItem {
     display: flex;
     flex-direction: column;
-    row-gap: 1.5rem;
     width: 16rem;
     margin-top: 1rem;
-    margin-left: 1rem;
-    margin-right: 1rem;
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
 }
 
 .projectsItem img {
@@ -1272,7 +1271,6 @@ body {
 
     #FAQContent{
         margin-left: 10px;
-        margin-bottom:60px;
         padding:35px;
     }
     #FAQAccordian {
@@ -1401,7 +1399,7 @@ body {
     .faq-container {
     max-width: 1200px;
     width: 80vw;
-    margin: 50px auto;
+    margin: auto;
     background-color: #f7f7f7;
     /* box-shadow: 0 0 10px var(--green); */
     overflow: hidden;
