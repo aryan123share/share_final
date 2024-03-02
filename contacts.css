@@ -15,10 +15,12 @@ body {
 * { 
     font-family: 'Poppins', sans-serif;
 }
-#navLogo img{
-       max-height: 64px !important;
-} 
-
+#navLogo img {
+    max-height: 80px !important;
+    width: 14rem;
+    position: relative;
+    left: -18%;
+}
 #navbar {
     width: 100%;
     box-sizing: border-box;
