@@ -1946,8 +1946,8 @@ body {
         justify-content: center;
 
     }
-    .clients{
-        display:none;}
+/*     .clients{
+        display:none;} */
     .shareimg{
         background: url(assets/Logo_Share_2.png);
            width: 54vw;
