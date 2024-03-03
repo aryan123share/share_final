@@ -848,7 +848,36 @@ body {
    
 
 }
-
+#review1 {
+    display: inline-block;
+    margin: 0;
+    height: 417px;
+    width: 30vw;
+    background: url(assets/culturetest.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#review3{
+    display: inline-block;
+    margin: 0;
+    height: 417px;
+    width: 30vw;
+    background: url(assets/fluxgentest.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#review2{
+    display: inline-block;
+    margin: 0;
+    height: 417px;
+    width: 30vw;
+    background: url(assets/bintixtest.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 .master {
     display: inline-block;
     margin: 0;
