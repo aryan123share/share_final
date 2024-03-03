@@ -852,6 +852,7 @@ body {
     display: inline-block;
     margin: 0;
     height: 417px;
+    box-shadow: 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     width: 30vw;
     background: url(assets/culturetest.png);
     background-size: cover;
@@ -863,6 +864,7 @@ body {
     margin: 0;
     height: 417px;
     width: 30vw;
+    box-shadow: 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     background: url(assets/fluxgentest.png);
     background-size: cover;
     background-position: center;
@@ -873,6 +875,7 @@ body {
     margin: 0;
     height: 417px;
     width: 30vw;
+    box-shadow: 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     background: url(assets/bintixtest.png);
     background-size: cover;
     background-position: center;
