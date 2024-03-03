@@ -884,6 +884,7 @@ body {
 .master {
     display: inline-block;
     margin: 0;
+    mix-blend-mode:multiply;
     height: 267px;
     width: 60vw;
     position: relative;
